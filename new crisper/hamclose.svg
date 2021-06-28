@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.334" height="31.026" viewBox="0 0 28.334 31.026">
+  <g id="Group_4331" data-name="Group 4331" transform="translate(-975 -322.694)">
+    <g id="Group_4324" data-name="Group 4324" transform="translate(975 322.694)">
+      <g id="Group_4306" data-name="Group 4306">
+        <path id="Path_3907" data-name="Path 3907" d="M46.167,56C38.375,56,32,60.341,32,65.648a.992.992,0,0,0,1.012.965h26.31a.934.934,0,0,0,1.012-.965v-.193C60.232,60.149,53.857,56,46.167,56ZM34.125,64.683c.81-3.859,5.869-6.753,12.042-6.753S57.5,60.92,58.209,64.683Z" transform="translate(-32 -56)" fill="#be1f25"/>
+      </g>
+    </g>
+    <g id="Group_4328" data-name="Group 4328" transform="translate(0.491)">
+      <g id="Group_4325" data-name="Group 4325" transform="translate(983.941 333.35) rotate(45)">
+        <g id="Group_4308" data-name="Group 4308" transform="translate(0)">
+          <path id="Path_3908" data-name="Path 3908" d="M16.347,0H.527C.211,0,0,.386,0,.965s.211.965.527.965H16.347c.316,0,.527-.386.527-.965S16.663,0,16.347,0Z" transform="translate(0)" fill="#be1f25"/>
+        </g>
+      </g>
+      <g id="Group_4326" data-name="Group 4326" transform="translate(995.805 334.716) rotate(135)">
+        <g id="Group_4310" data-name="Group 4310" transform="translate(0 0)">
+          <path id="Path_3909" data-name="Path 3909" d="M16.347,0H.527C.211,0,0,.386,0,.965s.211.965.527.965H16.347c.316,0,.527-.386.527-.965S16.663,0,16.347,0Z" transform="translate(0 0)" fill="#be1f25"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_4327" data-name="Group 4327" transform="translate(975 346.966)">
+      <g id="Group_4312" data-name="Group 4312">
+        <path id="Path_3910" data-name="Path 3910" d="M27.211,344H.878a.969.969,0,0,0,0,1.93h.878v1.544c0,1.544,1.141,3.28,2.633,3.28h19.4c1.4,0,2.546-1.737,2.546-3.28V345.93h.878a.969.969,0,0,0,0-1.93Zm-2.633,3.473c0,.579-.527,1.351-.79,1.351H4.389c-.351,0-.878-.772-.878-1.351V345.93H24.578Z" transform="translate(0 -344)" fill="#be1f25"/>
+      </g>
+    </g>
+  </g>
+</svg>

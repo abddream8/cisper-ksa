@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="32" viewBox="0 0 162 32">
+  <g id="Group_763" data-name="Group 763" transform="translate(-315 -92)">
+    <g id="sara" transform="translate(402.174 92)">
+      <ellipse id="Ellipse_23" data-name="Ellipse 23" cx="15.5" cy="16" rx="15.5" ry="16" transform="translate(-0.175 0)" fill="#be1f25"/>
+      <g id="instagram" transform="translate(7.535 8.253)">
+        <path id="Path_29" data-name="Path 29" d="M10.681,0H4.855A4.856,4.856,0,0,0,0,4.855v5.826a4.856,4.856,0,0,0,4.855,4.855h5.826a4.856,4.856,0,0,0,4.855-4.855V4.855A4.856,4.856,0,0,0,10.681,0Zm3.4,10.681a3.4,3.4,0,0,1-3.4,3.4H4.855a3.4,3.4,0,0,1-3.4-3.4V4.855a3.4,3.4,0,0,1,3.4-3.4h5.826a3.4,3.4,0,0,1,3.4,3.4Z" fill="#fff"/>
+        <path id="Path_30" data-name="Path 30" d="M131.884,128a3.884,3.884,0,1,0,3.884,3.884A3.884,3.884,0,0,0,131.884,128Zm0,6.312a2.427,2.427,0,1,1,2.428-2.428A2.431,2.431,0,0,1,131.884,134.311Z" transform="translate(-124.116 -124.116)" fill="#fff"/>
+        <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="0.518" cy="0.518" rx="0.518" ry="0.518" transform="translate(11.426 3.075)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_681" data-name="Group 681" transform="translate(314.647 92)">
+      <circle id="Ellipse_21" data-name="Ellipse 21" cx="16" cy="16" r="16" transform="translate(0.353 0)" fill="#26a6d1"/>
+      <g id="Group_18" data-name="Group 18" transform="translate(3.868 4.211)">
+        <path id="Path_36" data-name="Path 36" d="M11.866,0A11.866,11.866,0,1,1,0,11.866,11.866,11.866,0,0,1,11.866,0Z" transform="translate(0 0)" fill="#26a6d1"/>
+        <path id="Path_37" data-name="Path 37" d="M77.8,83.3a5.909,5.909,0,0,1-1.661.443,2.829,2.829,0,0,0,1.272-1.554,5.862,5.862,0,0,1-1.837.682,2.929,2.929,0,0,0-2.111-.886,2.849,2.849,0,0,0-2.891,2.806,2.725,2.725,0,0,0,.075.64A8.294,8.294,0,0,1,64.69,82.5a2.726,2.726,0,0,0-.392,1.411,2.783,2.783,0,0,0,1.286,2.335,2.94,2.94,0,0,1-1.31-.352v.036a2.831,2.831,0,0,0,2.32,2.752,2.99,2.99,0,0,1-.762.1,2.917,2.917,0,0,1-.544-.05,2.884,2.884,0,0,0,2.7,1.949,5.911,5.911,0,0,1-3.592,1.2,6.079,6.079,0,0,1-.69-.039A8.368,8.368,0,0,0,68.141,93.1a8.046,8.046,0,0,0,8.227-7.986l-.008-.363A5.77,5.77,0,0,0,77.8,83.3Z" transform="translate(-58.518 -75.309)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_680" data-name="Group 680" transform="translate(357.94 92)">
+      <ellipse id="Ellipse_22" data-name="Ellipse 22" cx="15.5" cy="16" rx="15.5" ry="16" transform="translate(0.06 0)" fill="#475993"/>
+      <rect id="Rectangle_501" data-name="Rectangle 501" width="16" height="20" transform="translate(7.06 5)" fill="#fff"/>
+      <path id="facebook_1_" data-name="facebook (1)" d="M18.551,0H2.891A2.889,2.889,0,0,0,0,2.889V18.55a2.889,2.889,0,0,0,2.889,2.889h7.724l.013-7.661H8.637a.47.47,0,0,1-.47-.468l-.01-2.469a.47.47,0,0,1,.47-.471h1.987V7.983a3.9,3.9,0,0,1,4.161-4.277H16.8a.47.47,0,0,1,.47.47V6.258a.47.47,0,0,1-.469.47H15.559c-1.343,0-1.6.638-1.6,1.575v2.066h2.952a.47.47,0,0,1,.466.525l-.293,2.469a.47.47,0,0,1-.466.414H13.969l-.013,7.661h4.6A2.889,2.889,0,0,0,21.44,18.55V2.889A2.889,2.889,0,0,0,18.551,0Z" transform="translate(4.318 4.379)" fill="#475993"/>
+    </g>
+    <g id="Group_714" data-name="Group 714" transform="translate(444.527 92)">
+      <g id="Group_713" data-name="Group 713" transform="translate(0)">
+        <circle id="Ellipse_23-2" data-name="Ellipse 23" cx="16" cy="16" r="16" transform="translate(0.473 0)" fill="#fecf00"/>
+      </g>
+      <text id="AR" transform="translate(24.473 20)" fill="#fff" font-size="14" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-15.554" y="0">AR</tspan></text>
+    </g>
+  </g>
+</svg>
